@@ -2,7 +2,7 @@
 
 The Department of Computer Science and Engineering at Michigan State University is committed to empowering the next generation of leaders in technology through K-12 outreach. 
 
-Tomorrow's future begins in today's classrooms. 
+Technology's future begins in today's classrooms. 
 
 ## Mission
 
