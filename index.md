@@ -2,7 +2,10 @@
 
 The Department of Computer Science and Engineering at Michigan State University is committed to empowering the next generation of leaders in technology through K-12 outreach. 
 
-Technology's future begins in today's classrooms. 
+Technology's future begins in today's classrooms.
+
+In achieving its goals, the Office for Women in Engineering, Recruitment and K-12 Outreach does not unlawfully
+discriminate. All events and programs are open to students of all genders.
 
 ## NEW! Register Interest in Fall 2021 Technovation
 
