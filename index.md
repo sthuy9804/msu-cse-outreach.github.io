@@ -4,6 +4,11 @@ The Department of Computer Science and Engineering at Michigan State University 
 
 Technology's future begins in today's classrooms. 
 
+## NEW! Register Interest in Fall 2021 Technovation
+
+We are now accepting registrations of interest in the Fall 2021 session of Technovation, offered virtually from
+Lansing, Detroit and Petoskey. [Submit this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScYkEGDvLGIvvX1IrDSDeyeFis2kaqU4k3s0Yk1NCTFTchmYA/viewform?usp=sf_link) to register your interest today!
+
 ## Mission
 
 We aim to broaden participation in computer science among K-12 students in Michigan and beyond. By engaging K-12 students in face-to-face and virtual programs led by near-peer university student mentors, we aim to build excitement across the rapidly growing fields of information technology, data science and software engineering. 
@@ -19,8 +24,7 @@ Learn more about the various outreach programs we offer.
   - Technovation
     - Next iteration: Fall 2021
     - Registration open: July 2021
-    - Offered in-person in Lansing
-    - Offered virtually from Detroit and Petoskey
+    - Offered virtually from Lansing, Detroit and Petoskey
 - Spring
   - Spartan Girls Who Code
     - Next iteration: Spring 2022
