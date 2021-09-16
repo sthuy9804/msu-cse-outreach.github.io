@@ -10,7 +10,7 @@ discriminate. All events and programs are open to students of all genders.
 ## NEW! Register Interest in Fall 2021 Technovation
 
 We are now accepting registrations of interest in the Fall 2021 session of Technovation, offered virtually from
-Lansing, Detroit and Petoskey. [Submit this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScYkEGDvLGIvvX1IrDSDeyeFis2kaqU4k3s0Yk1NCTFTchmYA/viewform?usp=sf_link) to register your interest today!
+Lansing, Detroit and All Michigan. [Submit this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScYkEGDvLGIvvX1IrDSDeyeFis2kaqU4k3s0Yk1NCTFTchmYA/viewform?usp=sf_link) to register your interest today!
 
 ## Mission
 
@@ -27,7 +27,7 @@ Learn more about the various outreach programs we offer.
   - Technovation
     - Next iteration: Fall 2021
     - Registration open: July 2021
-    - Offered virtually from Lansing, Detroit and Petoskey
+    - Offered virtually from Lansing, Detroit and All Michigan
 - Spring
   - Spartan Girls Who Code
     - Next iteration: Spring 2022
