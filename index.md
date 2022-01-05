@@ -1,6 +1,6 @@
 # MSU CSE Outreach
 
-The Department of Computer Science and Engineering at Michigan State University is committed to empowering the next generation of leaders in technology through K-12 outreach.
+The [Office for Women in Engineering](https://www.egr.msu.edu/wie/) and the [Department of Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://www.msu.edu/) are committed to empowering the next generation of leaders in technology through K-12 outreach.
 
 Technology's future begins in today's classrooms.
 
