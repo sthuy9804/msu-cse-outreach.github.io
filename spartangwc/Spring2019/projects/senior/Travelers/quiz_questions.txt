@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>What Place Should You Travel To Based On...</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>What Place Should You Travel To Based On...</h1>
+    <p>
+      Please make sure to keep <strong>count of your A's, B's, C's, D's, or E's</strong>!
+    </p>
+    <head> <strong>1. How Would You Get There?</strong>
+    <p> A. Boat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br> <img src="boat%20london.jpg" width=200 alt= "Image description" />
+      <br>
+      B. Train &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br> <img src="train%20chicago.jpg" width=200 alt="Image description" />
+      <br>
+      C. Plane &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br> 
+      <img src="plane%20russia%202.jpg" width=200 alt="Image description" />
+      <br>
+      D. Plane+Train &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br> 
+      <img src="plane-train%20paris.jpg" width=200 alt="Image description" />
+      <br>
+      E. Bike</p>
+      <br>
+      <img src="bike%20makinac.jpg" width=200 alt="Image description" />
+    <br>
+    <br>
+    <br>
+    <head> <strong> 2. What Time Of Year Would You Go? What's Your Weather Preferance?</strong></head>
+    <p> A. Clouds/ Rain (Early Summer) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="rainy%20and%20cloudy%20london.jpg" width=200 alt="Image description" />
+      <br>
+      B. Wind (Spring Break)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <br>
+      <img src="windy%20chicago.jpg" width=200 alt="Image description" />
+      <br>
+      C. Snow (Winter Break) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="snow%20russia.jpg" width=200 alt="Image description" />
+      <br>
+      D. Temperate (Autumn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="Backup%20temperate%20for%20parris.jpg" width=200/>
+      <br>
+      E. Sunny (Late Summer) 
+      <br>
+      <img src="sunny%20makinac.jpg" width=200 alt="Image description" />
+      <br>
+      <p/>
+    <br>
+    <br>
+    <br>
+      <head> <strong> 3. What Electronic Item Would You Bring? </strong></head>
+    <p> A. Speaker/charger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Speeeeeeeaaaaaaaaaaker%20for%20London%20electronic.jpg" width=200 alt="Image description" />
+      <br>
+      B. Laptop &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Macbook%20Laptop%20for%20Chicago%20electronics.jpg" width=200 alt="Image description" />
+      <br>
+      C. Headphones &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Headyheadheadphones%20for%20Russia%20electronics.jpg" width=200 alt="Image description" />
+      <br>
+      D. Camera &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="CAAAAAAAAAAAAAAAAAAAAMERAAAAAA%20for%20Paris%20electronic.jpg" width=200/>
+      <br>
+      E. Phone
+      <br>
+      <img src="IPhone%20for%20Mackinac.jpg" width=200/>
+      <br>
+    </p>
+    <br>
+    <br>
+    <br>
+      <head> <strong> 4. What Item Would You Bring To Have Fun?</strong></head>
+    <p> A. Night Outfit &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="night%20outfit%20london.jpg" width=200/>
+      <br>
+      B. Wallet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="wallet%20chicago.jpg" width=200/>
+      <br>
+      C. Skis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="skis%20russia.jpg" width=200/>
+      <br>
+      D. Art Supplies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="art%20supplies%20paris.jpg" width=200/>
+      <br>
+      E. Kayak and Bike
+      <br>
+      <img src="kayak%20makinac.jpg" width=200/>
+      <br>
+    </p>
+    <br>
+    <br>
+    <br>
+      <head> <strong> 5. What Clothes Do You Like Most? </strong></head>
+    <p> A. Knit Sweater &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="london%20sweater.jpg" width=200/>
+      <br>
+      B. Ripped Jeans &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="chicago%20jeans.jpg" width=200/>
+      <br>
+      C. Parka/ Fluffy Coat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="russia%20poofy%20coat.jpg" width=200/>
+      <br>
+      D. Strap Dress&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="paris%20dress.jpg" width=200/>
+      <br>
+      <br>
+      E. Old T Shirt
+      <br> 
+      <img src="mackinac%20shirt.jpg" width=200/>
+      <br>
+    </p>
+    <br>
+    <br>
+    <br>
+    <head> <strong> 6. How Much Money Would You Be Willing To Spend? </strong></head>
+    <p> A. $1,000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="1000%20dollars%20lodon.jpg" width=200/>
+      <br>
+      B. $300 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="300%20chicago.jpg" width=200/>
+      <br>
+      C. $12,000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="12000%20dollars%20russia.jpg" width=200/>
+      <br>
+      D. $2,000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="2000%20paris.jpg" width=200/>
+      <br>
+    E. $75.37 
+    <br>
+    <img src="75%20makinac.jpg" width=200/>
+    <br>
+    </p>
+    <br>
+    <br>
+    <br>
+    <head> <strong> 7. Who Would You Bring?</strong></head>
+    <p>A.Friends group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="Happiness%20is%20friendliness%20Fam%20and%20Friends%20for%20London.jpg" width=200/>
+      <br>
+      B. Mom &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Mommmmmmmmmmmmm%20for%20fam%20and%20friend%20Chicago.jpg" width=200/>
+      <br>
+      C. Siblings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="Fuuuuuuuuuuuulllllll%20house%20HONEY%20fam%20and%20friends%20for%20Russia.jpg" width=200/>
+      <br>
+      D. Significant other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Cutie%20pie%20couple%20for%20fam%20and%20friends%20in%20Paris.jpg" width=200/>
+      <br>
+      E. Family &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="family%20makinac.jpg" width=200/>
+    </p>
+    <br>
+    <br>
+    <br>
+    <head> <strong> 8.What Food Sounds The Best? </strong></head>
+    <p> A. Pot pie &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="pot%20pie.jpg" width=200/>
+      <br>
+      B. Pizza &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Chicago%20pizzzzzzzzzzzza.jpg" width=200/>
+      <br>
+      C. Blin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Russian%20Blin.jpg" width=200/>
+      <br>
+      D. Pastry &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Lovey%20dovey%20paris%20pastries.jpg" width=200/>
+      <br>
+      E. Fudge &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br> 
+      <img src="Chocolate-y%20goodness%20fudge%20for%20Mackinac.jpg" width=200/>
+      <br>
+    </p>
+    <br>
+    <br>
+    <br>
+    <head> <strong> 9.What Accesory Would You Bring?</strong></head>
+    <p> A. Umbrella &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="Singin'%20in%20the%20rain%20for%20London%20accessory.jpg" width=200/>
+      <br>
+      B. Windbreaker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="Wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiind%20breaker%20for%20Chicago.jpg" width=200/>
+      <br>
+      C. Fuzzy Hat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="Fuzzy%20fuzzy%20russian%20accessory.jpg" width=200/>
+      <br>
+      D. Fine Jewelry &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      <br>
+      <img src="mmm%20mmm%20mmmmmm%20this%20be%20expensive%20jewelry%20for%20paris%20accessory.jpg" width=200/>
+      E. Sunscreen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    </p>
+    <br>
+    <br>
+    <br>
+    <head> <strong> 10.How Many Family Members Did You Grow Up With?</strong></head>
+    <p>A. Four (4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="family%20four%20london.jpg" width=200/>
+      <br>
+      B. Three (3) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="family%20of%20three%20chicago.jpg" width=200/>
+      <br>
+      C. Six Plus (6+) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="family%20of%20six%20russia.jpg" width=200/>
+      <br>
+      D. Five (5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="family%20of%20five%20paris.jpg" width=200/>
+      <br>
+      E. Seven Plus (7+) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+      <img src="family%20of%20seven%20makinac.jpg" width=200/>
+      <br>
+
+    </p>
+    <br>
+      To Find Your Results Click <a href="travel_quiz_results.html">HERE</a>
+    
+</html>
+
+
+

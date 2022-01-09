@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thimble Sample</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Dimention Crossers: Black Moon</h1>
+    <!--
+    <img src="data:image/jpeg;base64,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"
+  -->
+  <br>
+  COPYRIGHTED IMAGE DELETED
+  <br>
+  <br>
+
+    <p>
+      Hi! I'm Jade. I'm a huge fan of writing. Especially fan fiction. Today, I'll be using the story "Dimenrion Crossers: Black Moon" as my example.
+    </p>
+    <p> My favorite video games are the mario and sonic games. Mostly Mario and Sonic olimpic games. I love combining fictional characters to make new stories. I've loved doing that since I was <i>five</i>. When I created my first OC (original character) , Flame. But that will be a whole other story.
+    </p>
+    <!--
+    <img src="https://vignette3.wikia.nocookie.net/super-mario-history/images/7/76/Mp9-luigi.jpg/revision/latest?cb=20130423204821" width="200" height="300"-->
+    <br>
+    COPYRIGHTED IMAGE DELETED
+    <br>
+    <br>
+    <p>Ironicly, I use to <b>hate</b> writing. I would of never discovered my magical talent and love for writing if I wasn't <i>dying</i> to get my made up stories out of my mind. It started when I was watching YouTube. (Don't we all get inspired by YouTube?) I was watching videos about Luigi. I felt like Luigi deserved more attention. So, that's how the idea started. The origional characters that I was going to use were Luigi, Tails, and Starlight. All characters I loved and characters that tend to hide in character shadows. I wanted a forth character to be in the story. I experimented with a couple of characters that normally don't get much glory. I ended up using Paper Luigi from Paper Mario. But the idea didn't stick. At that time, I was a <b>huge</b> fan of the wings of fire series. I had just finished "Peril Escaping". Just learning about Darkstalker. So, I wanted to add Moonwatcher into the story. I thought of how well that would go into the story. And so, I wrote my very first chapter. Eventually, i evolved the book into a series. And that's how I got the Dimention Crossers part.
+    </p>
+    <p>Unlike most authors, I hadn't really written any ideas for my stories. I just went with the flow. Although like most authors, I am taking a <b>extremely</b> long time to write my stories. Mostly because of squequal conflict. But I'm managing. Being a new writer, don't blame me that I've only written 13 chapters.
+    </p>
+    <p>Honestly, I've never thought of writing stories if it hadn't been for my first OC. Flame is a girl. She has hair the color of lava and the colors flow through her hair depending on her emotion. She wears red cloths, uses a spear to fight, and colects the ashes of her enemy to help make new spells. She loves science and magic. She is the "daughter" of Bowser and is fighting in a war against Mario (Mario is also the platform for this story). So yeah.</p>
+    <p>As you can tell, I love writing. But I can always manage to fit in coding. I love them equally. But I want to work for Nintendo and code games. But I might become a writer too. Who knows? Like I said. I just go with the flow.</p>
+    <p>Now. Here's a sneack peak of the prolouge of "Dimetion Crossers: Black Moon".</p>
+    <p>--------------------------------------------------------------------------------------------------</p>
+    <p><i>How am I going to distract that stupid centar? Again.</i> Tirek thought as he paced inside his prison.</p>
+    <p>In Tartarus, things were boring. Especially when you are the only one in your realm. Last time he escaped, he had used one of his dead cellmate’s bones to distract the centar. Then, he weakened the chains and escaped. A hard and long complicated process, but it worked. Now because of the stupid Prophecy of Harmony, all his hard work was gone. They even made sure he was going to be the only creature where he was located.</p>
+    <p>He did remember the message he had sent out before his imprisonment. It had said:</p>
+    <p><i>Dear fellow friends,</i><p>
+    <p><i>I am trapped in a place called tartarus. If you come and help me, I will do anything you would like me to do.</i></p>
+    <p>He had no idea where in the universe he sent it to or if whoever found it would help. Maybe they would ignore it. Worse, they might even try harder to make sure he’ll never see a glimpse of the sun again.</p>
+    <p>But today, it all changed.</p>
+    <p>Something rippled through the air. Then, slowy, it seemed to be tearing through space. Until it opened a portal. Some kind of turtle with spikes on the back burst through the portal. Followed by some two-legged thing. Creatures like him. Interesting.</p>
+    <p>The centar growled and pounced onto the creatures, but the turtle thing was stronger. He grabbed the centaur and flung it over the edge. A strong one. Useful.</p>
+    <p>“You must be the almighty Tirek.” The two legged thing said. He pull out some kind of metal stick thing and blasted the cage door. “You’re not as all-powerful looking you know.”</p>
+    <p>“I know” Tirek said, “Just wait and see.”</p>
+    <p>“I’m Bowser.” Bowser said, “And this is Dr. Robotnik. So, you going to do your job?”</p>
+    <p>“And what would that be?”</p>
+    <p>“Kill off some rats that always get in our way.” Dr. Robotnik said, “Their names are Mario and Sonic.”</p>
+    <p>“Oh ho,” Tirek smiled, “I can do better than just killing. Soon the world will bow down before us. They’ll have no choice.” He paused. He remembered their terrible faces. “And we can finally get revenge on <b>them</b>.”</p>
+
+    <p>Moon woke up terrified. It was the middle of the night. Kinkajou was snoring right beside her. She rubbed her eyes. <i>Was that a vision? No. It can’t be. Not this soon. But… It felt so</i> real<i>. Pariah is not ready for another one. Please tell me that was just a nightmare.</i></p>
+    <p>She got up and grabbed a scroll. The scroll Starflight wrote after the defeat of Darkstalker. And that was only one week ago.</p>
+    <p>She buried face in her talons. Could she handle another prophecy?</p>
+    <p>--------------------------------------------------------------------------------------------------</p>
+  <p> And now here's the prophacy!</p>
+  <p>--------------------------------------------------------------------------------------------------</p>
+  <p>On the night the black moons strikes the land,</p>
+
+  <p>On the day all worlds collide,</p>
+
+  <p>When all the power is in his hand,</p>
+
+  <p>Until they come, all must hide.</p>
+
+  <p>Free the land, Free them all,</p>
+
+  <p>Save the land, and make him fall.</p>
+
+  <p>But beware the great power that awaits.</p>
+
+  <p>Join together, do whatever it takes.</p>
+
+  <p>Find the first in the mushroom world.</p>
+
+  <p>Two tails that give this one a twirl.</p>
+
+  <p>The last of its power will lead them all</p>
+
+  <p>The last is in danger, as magic falls.</p>
+  <p>--------------------------------------------------------------------------------------------------</p>
+<p>Citations: Black Moon image: "https://www.bing.com/images/search?view=detailV2&ccid=fzNP1niW&id=C8EA52F0210BC93D7A8D44139B52216FB90346F2&thid=OIP.fzNP1niWiz3wycbxpaI6zAHaEK&mediaurl=http%3a%2f%2fimages.fineartamerica.com%2fimages-medium-large%2fthe-black-moon-lupu-victor.jpg&exph=506&expw=900&q=black+moon+&simid=608021326066288729&selectedIndex=32&cbir=sbi"
+</p>
+<p>Image of Luigi: "https://www.bing.com/images/search?view=detailV2&ccid=Jnpm2i6k&id=31903F0D33EFD68985936B78B40147E22C0712EE&thid=OIP.Jnpm2i6kIU5jNFBJDmLTlgHaLw&mediaurl=https%3a%2f%2fstatic.comicvine.com%2fuploads%2foriginal%2f4%2f46951%2f2238772-marioparty9luigi.jpg&exph=953&expw=600&q=image+of+Luigi&simid=608007852726355776&selectedIndex=6"</p>
+  </body>
+</html>

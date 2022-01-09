@@ -1,0 +1,81 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: #916bc2;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  margin: 0;
+  color: #000000;
+  display: block;
+}
+
+top {
+  display: inline;
+}
+
+bottom {
+  display: inline;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+syd {
+  min-width: 100px;
+  float: left;
+  width: 49%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #f1f1f1;
+  border-style: solid;
+  border-width: 5px;
+  color: black;
+  background-image: url("Img/The-Sims-4-The-Sims-are-back.jpg");
+}
+
+promise {
+  min-width: 100px;
+  float: right;
+  width: 49%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+  border-style: solid;
+  border-width: 5px;
+  color: white;
+  background-image: url("Img/Tekken-7-Master-Raven.jpg");
+}
+
+jade {
+  min-width: 100px;
+  float: left;
+  width: 49%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #f1f1f1;
+  border-style: solid;
+  border-width: 5px;
+  color: black; 
+  background-image: url("Img/MarioSonic1.png");
+}
+
+libbie {
+  min-width: 100px;
+  float: right;
+  width: 49%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+  border-style: solid;
+  border-width: 5px;
+  color: white;
+  background-image: url("Img/resident_evil_7_biohazard-1920x1080.jpg");
+}
+
+a {
+  color: inherit;
+  font-style: inherit;
+  padding: 20px;
+  display: block;
+}
