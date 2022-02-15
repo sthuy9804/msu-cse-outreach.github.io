@@ -77,7 +77,7 @@ Your tax deductible gift can help make these programs happen! Ask your employer 
 
 You may charge your gift using the University Development Online Gift Cart: [https://www.givingto.msu.edu/gift/index.cfm](https://www.givingto.msu.edu/gift/index.cfm). Type ''Department of Computer Science and Engineering'' into the search box and select it. Enter the amount and select ''Proceed to Checkout''. After submitting your credit card information and approving payment, you will receive a receipt by email. Save this receipt for your tax records. Gifts to MSU are tax deductible to the extent permitted by law.
 
-Please forward a copy of the receipt to belizecc@egr.msu.edu so that we can ensure that the gift is credited to the MSU x Pathlight Coding Clubs Program.
+Please forward a copy of the receipt to iselava1@msu.edu so that we can ensure that the gift is credited to the SPARCC Program.
 
 If you prefer to mail your gift, please include your credit card number, expiration date, the name under which the card is issued, and the program (SPARCC - WIE) on your gift pledge form (.pdf).
 
