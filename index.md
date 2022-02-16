@@ -61,14 +61,14 @@ Our outreach programs are led by undergraduate students under the supervision of
   - Katie White, Junior, Computer Science
 
 - Faculty & Staff
-  - Teresa Isela Vandersloot, Director of Women in Engineering and K-12 Outreach, College of Engineering
-  - Laura Dillon, Professor Emeritus, Computer Science and Engineering
-  - Emily Dobson, Assistant Professor, Computer Science and Engineering
-  - Joshua Nahum, Teaching Specialist, Computer Science and Engineering
-  - Sebnem Onsay, Teaching Specialist, Computer Science and Engineering
-  - Phil Sands, Assistant Professor, Computer Science and Engineering
-  - Marilyn Wulfekuhler, Teaching Specialist, Computer Science and Engineering
-  - Imen Zaabar, Teaching Specialist, Computer Science and Engineering
+  - [Teresa Isela Vandersloot, Director of Women in Engineering and K-12 Outreach, College of Engineering](https://www.egr.msu.edu/people/profile/iselava1)
+  - [Laura Dillon, Professor Emeritus, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/ldillon)
+  - [Emily Dolson, Assistant Professor, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/dolsonem)
+  - [Joshua Nahum, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/nahum)
+  - [Sebnem Onsay, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/onsayse)
+  - [Phil Sands, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/phil)
+  - [Marilyn Wulfekuhler, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/wulfekuh)
+  - [Imen Zaabar, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/zaabarim)
 
 ## Sponsors
 
@@ -96,14 +96,13 @@ If you prefer to mail your gift, please include your credit card number, the exp
 
 Pledge forms should be mailed to:  
 
-  Office of Development  
-  College of Engineering  
-  Michigan State University  
-  428 S. Shaw Lane, Room 3536  
-  East Lansing, MI 48824-1226  
-
-  Ph: 517-884-1000 (Local)  
-  Ph: 800-232-4678 (Toll Free)  
+> Office of Development  
+> College of Engineering  
+> Michigan State University  
+> 428 S. Shaw Lane, Room 3536  
+> East Lansing, MI 48824-1226  
+> Ph: 517-884-1000 (Local)  
+> Ph: 800-232-4678 (Toll Free)  
 
 
 ## Under Construction
