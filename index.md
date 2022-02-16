@@ -53,23 +53,33 @@ Our outreach programs are led by undergraduate students under the supervision of
 - Faculty & Staff
   - Teresa Isela Vandersloot, Director of Women in Engineering and K-12 Outreach, College of Engineering
   - Laura Dillon, Professor Emeritus, Department of Computer Science and Engineering
+  - Emily Dobson, Assistant Professor, Department of Computer Science and Engineering
+  - Joshua Nahum, Teaching Specialist, Department of Computer Science and Engineering
   - Sebnem Onsay, Teaching Specialist, Department of Computer Science and Engineering
+  - Phil Sands, Assistant Professor, Department of Computer Science and Engineering
   - Marilyn Wulfekuhler, Teaching Specialist, Department of Computer Science and Engineering
+  - Imen Zaabar, Teaching Specialist, Department of Computer Science and Engineering
+
 - Student Leads
   - Sarah Swann, Senior
   - Gigi Padalec, Senior
   - Andrew McDonald, Senior
+  - Sophie Martin, Senior
+  - Averi Justice, Senior
 
-## Donate
+## Sponsors
 
 We are happy to acknowledge the following sponsors for their generous support:
 
-- Supporting Spartan Girls Who Code in fall 2021 and spring 2022: [Ford](https://www.ford.com/)
-- Supporting MSU x Pathlight Coding Clubs in spring 2022:
+- Spartan Girls Who Code in fall 2021 and spring 2022:
+  - [Ford](https://www.ford.com/)
+- MSU x Pathlight Coding Clubs in spring 2022:
   - [Pathlight International](https://pathlight.org/)
   - [IEEE Computer Society](https://tc.computer.org/tcse/)
   - [ACM Special Interest Group in Software Engineering](https://www.sigsoft.org/)
   - Laura Dillon
+
+## Donate
 
 Funding permitting, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in fall 2022 and spring 2023. Potential partners in Turkey and Mexico are also requesting our help offering programs in the coming year.
 
@@ -77,9 +87,9 @@ Your tax deductible gift can help make these programs happen! Ask your employer 
 
 You may charge your gift using the University Development Online Gift Cart: [https://www.givingto.msu.edu/gift/index.cfm](https://www.givingto.msu.edu/gift/index.cfm). Type ''Department of Computer Science and Engineering'' into the search box and select it. Enter the amount and select ''Proceed to Checkout''. After submitting your credit card information and approving payment, you will receive a receipt by email. Save this receipt for your tax records. Gifts to MSU are tax deductible to the extent permitted by law.
 
-Please forward a copy of the receipt to iselava1@msu.edu so that we can ensure that the gift is credited to the SPARCC Program.
+Please forward a copy of the receipt to [Teresa VanderSloot](mailto:iselava1@msu.edu) to ensure that the gift is credited to the SPARCC Program.
 
-If you prefer to mail your gift, please include your credit card number, expiration date, the name under which the card is issued, and the program (SPARCC - WIE) on your gift pledge form (.pdf).
+If you prefer to mail your gift, please include your credit card number, the expiration date, the name under which the card is issued, and the program (SPARCC - WIE) on your [gift pledge form](https://www.egr.msu.edu/sites/default/files/pledgeform.pdf) (.pdf).
 
 Pledge forms should be mailed to:  
 
