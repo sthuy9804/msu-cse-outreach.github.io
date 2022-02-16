@@ -4,14 +4,14 @@ The [Office for Women in Engineering](https://www.egr.msu.edu/wie/) and the [Dep
 
 Technology's future begins in today's classrooms.
 
-In achieving its goals, the Office for Women in Engineering, Recruitment and K-12 Outreach does not unlawfully
-discriminate. All events and programs are open to students of all genders.
-
 ## Mission
 
 We aim to broaden participation in computer science among K-12 students in Michigan and beyond. By engaging K-12 students in face-to-face and virtual programs led by near-peer university student mentors, we aim to build excitement across the rapidly growing fields of information technology, data science and software engineering.
 
 In particular, we aim to remove the many barriers to entry in computer science which disproportionately affect female- and LGBTQIA+-identifying, Black, Latinx, Native American and socioeconomically underprivileged individuals.
+
+In achieving its goals, the Office for Women in Engineering, Recruitment and K-12 Outreach does not unlawfully
+discriminate. All events and programs are open to students of all genders.
 
 
 ## Programs
@@ -30,42 +30,45 @@ Learn more about the various outreach programs we offer.
     - Next iteration: Spring 2022.
     - Registration opens: November 2021.
     - Offered remote throughout Michigan.
-  - Detroit Girls Who Code (Tentative)
-    - Tuesday and Thursday after school. Mid March through April.
-    - Next iteration: March 2022.
-    - Registration opens: January 2022.
-    - MSU mentors remote. Participants in-person in local schools with a local teacher.
   - [MSU x Pathlight Coding Clubs](https://msu-cse-outreach.github.io/belizeweb)
     - Saturday mornings (10 am - 11:30 am Belize Time) and Tuesday afternoons (4 pm - 5:30 pm Belize Time) from January 15 through February 26.
     - Next iteration: January 2022.
     - Registration opens: November 2021.
     - Offered virtually from East Lansing.
+  - Detroit Girls Who Code (Tentative)
+    - Tuesday and Thursday after school. Fall 2022.
+    - Next iteration: Fall 2022.
+    - Registration opens: Summer 2022.
+    - MSU mentors remote. Participants in-person in local schools with a local teacher.
 - Summer
   - Girls in Computing Summer Camp
-    - Next iteration: Summer 2021
-    - Registration open: June 2021
+    - Next iteration: Summer 2022
+    - Registration open: May 2022
     - Offered virtually from East Lansing
 
 ## Team
 
 Our outreach programs are led by undergraduate students under the supervision of faculty and staff from across the MSU College of Engineering.
 
+- Student Leads
+  - Katie Albus, Senior, Computer Engineering
+  - Averi Justice, Senior, Computer Science
+  - Sophie Martin, Senior, Computer Science
+  - Andrew McDonald, Senior, Computer Science
+  - Jonathon Moore, Senior, Computer Science
+  - Gigi Padalec, Senior, Computer Science
+  - Sarah Swann, Senior, Computer Science
+  - Katie White, Junior, Computer Science
+
 - Faculty & Staff
   - Teresa Isela Vandersloot, Director of Women in Engineering and K-12 Outreach, College of Engineering
-  - Laura Dillon, Professor Emeritus, Department of Computer Science and Engineering
-  - Emily Dobson, Assistant Professor, Department of Computer Science and Engineering
-  - Joshua Nahum, Teaching Specialist, Department of Computer Science and Engineering
-  - Sebnem Onsay, Teaching Specialist, Department of Computer Science and Engineering
-  - Phil Sands, Assistant Professor, Department of Computer Science and Engineering
-  - Marilyn Wulfekuhler, Teaching Specialist, Department of Computer Science and Engineering
-  - Imen Zaabar, Teaching Specialist, Department of Computer Science and Engineering
-
-- Student Leads
-  - Sarah Swann, Senior
-  - Gigi Padalec, Senior
-  - Andrew McDonald, Senior
-  - Sophie Martin, Senior
-  - Averi Justice, Senior
+  - Laura Dillon, Professor Emeritus, Computer Science and Engineering
+  - Emily Dobson, Assistant Professor, Computer Science and Engineering
+  - Joshua Nahum, Teaching Specialist, Computer Science and Engineering
+  - Sebnem Onsay, Teaching Specialist, Computer Science and Engineering
+  - Phil Sands, Assistant Professor, Computer Science and Engineering
+  - Marilyn Wulfekuhler, Teaching Specialist, Computer Science and Engineering
+  - Imen Zaabar, Teaching Specialist, Computer Science and Engineering
 
 ## Sponsors
 
