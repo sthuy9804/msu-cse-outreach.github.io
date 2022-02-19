@@ -1,8 +1,8 @@
-# MSU CSE Outreach
+# Computer Science Outreach and Community Engagement
 
-The [Office for Women in Engineering](https://www.egr.msu.edu/wie/) and the [Department of Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://www.msu.edu/) are committed to empowering the next generation of leaders in technology through K-12 outreach.
+<div style="text-align:center">*Technology's future begins in today's classrooms!*</div>
 
-Technology's future begins in today's classrooms.
+The [Office for Women in Engineering, Recruitment, Civic Engagement and K-12 Outreach](https://www.egr.msu.edu/wie/) and the [Department of Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://www.msu.edu/) are committed to empowering the next generation of leaders in technology through K-12 outreach.
 
 ## Mission
 
@@ -24,22 +24,22 @@ Learn more about the various outreach programs we offer.
     - Next iteration: Fall 2022.
     - Registration opens: July 2022.
     - Offered in-person at the Downtown Branch of the Capital Area District Libraries and remote in Detroit and All Michigan. (In-person offerings are subject to approval by MSU Youth Programs; since Fall 2020, all offerings have been remote.)
+  - Detroit Girls Who Code (Tentative)
+    - Tuesday and Thursday after school.
+    - Next iteration: Fall 2022.
+    - Registration opens: Summer 2022.
+    - MSU mentors remote. Participants in-person in local schools.
 - Spring
   - [Spartan Girls Who Code](https://www.spartangwc.org/)
     - Saturday mornings (10 am - noon). Typically 8 meetings scheduled to avoid the Michigan Public school and Michigan State University spring breaks.
     - Next iteration: Spring 2022.
     - Registration opens: November 2021.
     - Offered remote throughout Michigan.
-  - [MSU x Pathlight Coding Clubs](https://msu-cse-outreach.github.io/belizeweb)
+  - [MSU x PathLight Coding Clubs](https://msu-cse-outreach.github.io/belizeweb)
     - Saturday mornings (10 am - 11:30 am Belize Time) and Tuesday afternoons (4 pm - 5:30 pm Belize Time) from January 15 through February 26.
     - Next iteration: January 2022.
     - Registration opens: November 2021.
     - Offered virtually from East Lansing.
-  - Detroit Girls Who Code (Tentative)
-    - Tuesday and Thursday after school. Fall 2022.
-    - Next iteration: Fall 2022.
-    - Registration opens: Summer 2022.
-    - MSU mentors remote. Participants in-person in local schools with a local teacher.
 - Summer
   - Girls in Computing Summer Camp
     - Next iteration: Summer 2022
@@ -74,13 +74,11 @@ Our outreach programs are led by undergraduate students under the supervision of
 
 We are happy to acknowledge the following sponsors for their generous support:
 
-- Spartan Girls Who Code in fall 2021 and spring 2022:
-  - [Ford](https://www.ford.com/)
-- MSU x Pathlight Coding Clubs in spring 2022:
-  - [Pathlight International](https://pathlight.org/)
-  - [IEEE Computer Society](https://tc.computer.org/tcse/)
-  - [ACM Special Interest Group in Software Engineering](https://www.sigsoft.org/)
-  - Laura Dillon
+- [Ford](https://www.ford.com/): Spartan Girls Who Code (Fall 2021 & Spring 2022)
+- [PathLight International](https://PathLight.org/): MSU x PathLight Coding Clubs (Spring 2022)
+- [IEEE Computer Society](https://tc.computer.org/tcse/): MSU x PathLight Coding Clubs (Spring 2022)
+- [ACM Special Interest Group in Software Engineering](https://www.sigsoft.org/): MSU x PathLight Coding Clubs (Spring 2022)
+- Laura Dillon, MSU x PathLight Coding Clubs (Spring 2022)
 
 ## Donate
 
