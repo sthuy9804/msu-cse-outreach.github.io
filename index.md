@@ -1,4 +1,4 @@
-# Computer Science Outreach and Community Engagement
+# MSU Spartan Coding Clubs (SPARCC)
 
 <div style="text-align:center">*Technology's future begins in today's classrooms!*</div>
 
