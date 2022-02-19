@@ -1,6 +1,6 @@
 # MSU Spartan Coding Clubs (SPARCC)
 
-<div style="text-align:center">*Technology's future begins in today's classrooms!*</div>
+<div style="text-align:center"><em>Technology's future begins in today's classrooms!</em></div>
 
 The [Office for Women in Engineering, Recruitment, Civic Engagement and K-12 Outreach](https://www.egr.msu.edu/wie/) and the [Department of Computer Science and Engineering](https://www.cse.msu.edu/) at [Michigan State University](https://www.msu.edu/) are committed to empowering the next generation of leaders in technology through K-12 outreach.
 
