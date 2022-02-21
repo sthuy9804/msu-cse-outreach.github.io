@@ -82,15 +82,17 @@ We are happy to acknowledge the following sponsors for their generous support:
 
 ## Donate
 
-Funding permitting, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in fall 2022 and spring 2023. Potential partners in Turkey and Mexico are also requesting our help offering programs in the coming year.
+If funding permits, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in fall 2022 and spring 2023. We are also hoping to offer international clubs with a partner in Turkey in the coming year.
 
-Your tax deductible gift can help make these programs happen! Ask your employer if they can match your gift for additional impact!!
+Your tax deductible gift will help sustain our current clubs and make these additional clubs possible! Ask your employer if they have a matching program to potentially double the impact of your gift!!
 
-You may charge your gift using the University Development Online Gift Cart: [https://www.givingto.msu.edu/gift/index.cfm](https://www.givingto.msu.edu/gift/index.cfm). Type ''Department of Computer Science and Engineering'' into the search box and select it. Enter the amount and select ''Proceed to Checkout''. After submitting your credit card information and approving payment, you will receive a receipt by email. Save this receipt for your tax records. Gifts to MSU are tax deductible to the extent permitted by law.
+You may charge your gift using the University Development Online Gift Cart: [https://www.givingto.msu.edu/gift/index.cfm](https://www.givingto.msu.edu/gift/index.cfm).
+1. Type *Women in Engineering* into the search box; scroll down and select *Women in Engineering Recruitment and K-12 Outreach*.
+2. Enter the amount and select *Proceed to Checkout*.
+3. After submitting your credit card information and approving payment, you will receive a receipt by email. Save this receipt for your tax records. (Gifts to MSU are tax deductible to the extent permitted by law.)
+4. Please forward a copy of the receipt to [Teresa VanderSloot](mailto:iselava1@msu.edu) to ensure that the gift is credited to the SPARCC Program.
 
-Please forward a copy of the receipt to [Teresa VanderSloot](mailto:iselava1@msu.edu) to ensure that the gift is credited to the SPARCC Program.
-
-If you prefer to mail your gift, please include your credit card number, the expiration date, the name under which the card is issued, and the program (SPARCC - WIE) on your [gift pledge form](https://www.egr.msu.edu/sites/default/files/pledgeform.pdf) (.pdf).
+If you prefer to mail your gift, please include your credit card number, the expiration date, the name under which the card is issued, and the program (SPARCC) on your [gift pledge form](https://www.egr.msu.edu/sites/default/files/pledgeform.pdf) (.pdf).
 
 Pledge forms should be mailed to:  
 
