@@ -101,6 +101,7 @@ Pledge forms should be mailed to:
 > Michigan State University  
 > 428 S. Shaw Lane, Room 3536  
 > East Lansing, MI 48824-1226  
+>
 > Ph: 517-884-1000 (Local)  
 > Ph: 800-232-4678 (Toll Free)  
 
