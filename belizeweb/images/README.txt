@@ -15,4 +15,6 @@ All Belize flag images on this page are royalty free. They may be used in person
   
 * Photo by <a href="https://unsplash.com/@halacious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hal Gatewood</a> on <a href="https://unsplash.com/s/photos/computer-resources?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+* sgwc2-353x327r72.png - Calan Maxwell (Media Release folder), Sarah Swan
 
+* gwc-empowered177x163r72.png - 
