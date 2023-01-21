@@ -20,49 +20,36 @@ Learn more about the various outreach programs we offer.
 
 - Fall
   - [Technovation](http://technovation.cadl.org/)
-    - Saturday mornings (10 am - noon). Typically 8 meetings scheduled to avoid the Michigan Public school and Michigan State University spring breaks.
-    - Next iteration: Fall 2022.
-    - Registration opens: July 2022.
-    - Offered in-person at the Downtown Branch of the Capital Area District Libraries and remote in Detroit and All Michigan. (In-person offerings are subject to approval by MSU Youth Programs; since Fall 2020, all offerings have been remote.)
-  - Detroit Girls Who Code (Tentative)
-    - Tuesday and Thursday after school.
-    - Next iteration: Fall 2022.
-    - Registration opens: Summer 2022.
-    - MSU mentors remote. Participants in-person in local schools.
+    - Saturday mornings (10 am - noon). Typically 10 meetings scheduled to avoid the Michigan Public school and Michigan State University spring breaks.
+    - Next iteration: Fall 2024.
+    - Registration opens: July 2023.
+    - Offered in-person at the Downtown Branch of the Capital Area District Libraries and remote in Detroit and All Michigan. 
 - Spring
   - [Spartan Girls Who Code](https://www.spartangwc.org/)
-    - Saturday mornings (10 am - noon). Typically 8 meetings scheduled to avoid the Michigan Public school and Michigan State University spring breaks.
-    - Next iteration: Spring 2022.
-    - Registration opens: November 2021.
-    - Offered remote throughout Michigan.
+    - Saturday mornings (10 am - noon). Typically 10 meetings scheduled to avoid the Michigan Public school and Michigan State University spring breaks.
+    - Next iteration: Spring 2023.
+    - Registration opens: November 2022.
+    - Offered remote throughout Michigan and in-person on the MSU Campus to residents of the Greater Lansing Area
   - [MSU x PathLight Coding Clubs](https://msu-cse-outreach.github.io/belizeweb)
-    - Saturday mornings (10 am - 11:30 am Belize Time) and Tuesday afternoons (4 pm - 5:30 pm Belize Time) from January 15 through February 26.
-    - Next iteration: January 2022.
-    - Registration opens: November 2021.
+    - Saturday mornings (10 am - 11:30 am Belize Time). Typically 10 meetings scheduled to avoid the MSU spring breaks.
+    - Next iteration: January 2023.
+    - Registration opens: November 2022.
     - Offered virtually from East Lansing.
+    - A handful of MSU Lead Mentors visit Belize in May to meet coders in person and hold award ceremonies and workshops.
 - Summer
   - Girls in Computing Summer Camp
-    - Next iteration: Summer 2022
-    - Registration open: May 2022
+    - Next iteration: Summer 2023
+    - Registration open: May 2023
     - Offered virtually from East Lansing
 
 ## Team
 
-Our outreach programs are led by undergraduate students under the supervision of faculty and staff from across the MSU College of Engineering.
-
-- Student Leads
-  - Katie Albus, Senior, Computer Engineering
-  - Averi Justice, Senior, Computer Science
-  - Sophie Martin, Senior, Computer Science
-  - Andrew McDonald, Senior, Computer Science
-  - Jonathon Moore, Senior, Computer Science
-  - Gigi Padalec, Senior, Computer Science
-  - Sarah Swann, Senior, Computer Science
-  - Katie White, Junior, Computer Science
+Our outreach programs are led by undergraduate students under the supervision of MSU faculty, staff, and graduate students.
 
 - Faculty & Staff
   - [Teresa Isela Vandersloot, Director of Women in Engineering and K-12 Outreach, College of Engineering](https://www.egr.msu.edu/people/profile/iselava1)
   - [Laura Dillon, Professor Emeritus, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/ldillon)
+  - [Yann-Meing Law, Assistant Professor, Comp. Mathematics, Science, and Engineering](https://cmse.msu.edu/directory/faculty/yann-meing-law/)
   - [Emily Dolson, Assistant Professor, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/dolsonem)
   - [Joshua Nahum, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/nahum)
   - [Sebnem Onsay, Teaching Specialist, Computer Science and Engineering](https://www.egr.msu.edu/people/profile/onsayse)
@@ -74,15 +61,15 @@ Our outreach programs are led by undergraduate students under the supervision of
 
 We are happy to acknowledge the following sponsors for their generous support:
 
-- [Ford](https://www.ford.com/): Spartan Girls Who Code (Fall 2021 & Spring 2022)
-- [PathLight International](https://PathLight.org/): MSU x PathLight Coding Clubs (Spring 2022)
+- [Ford](https://www.ford.com/): Spartan Girls Who Code (Fall 2021 &mdash; Spring 2023)
+- [PathLight International](https://PathLight.org/): MSU x PathLight Coding Clubs (Spring 2022, Spring 2023)
 - [IEEE Computer Society](https://tc.computer.org/tcse/): MSU x PathLight Coding Clubs (Spring 2022)
 - [ACM Special Interest Group in Software Engineering](https://www.sigsoft.org/): MSU x PathLight Coding Clubs (Spring 2022)
 - Laura Dillon, MSU x PathLight Coding Clubs (Spring 2022)
 
 ## Donate
 
-If funding permits, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in fall 2022 and spring 2023. We are also hoping to offer international clubs with a partner in Turkey in the coming year.
+If funding permits, we plan to partner with the [Detroit Public Schools Community District](https://www.detroitk12.org/) to offer after-school coding clubs in several middle-schools in fall 2024 and spring 2025. We are also hoping to offer international clubs with a partner in Turkey in the coming year.
 
 Your tax deductible gift will help sustain our current clubs and make these additional clubs possible! Ask your employer if they have a matching program to potentially double the impact of your gift!!
 
